@@ -85,9 +85,8 @@ WASD - Movement
 
 Left Mouse Button - Shoot
 
-Left Shift - Go Back To Menu
+Escape - Pause Menu
 
-Right Shift - Damage Player
+"M" - Map
 
-P - Pause The Game.
-
+Right Shift - Harm Your Self
